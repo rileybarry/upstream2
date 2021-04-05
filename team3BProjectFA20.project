@@ -26,6 +26,22 @@
             "Form1",
             "Form1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "menu",
+            "menu.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "newList",
+            "newList.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "newList",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
