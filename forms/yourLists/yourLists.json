@@ -16,7 +16,7 @@
         "forms",
         "yourLists",
         "Elements",
-        "chkLists.json"
+        "btnDeleteList.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "yourLists",
         "Elements",
-        "btnDeleteList.json"
+        "rdoLists.json"
       ]
     }
   ],
