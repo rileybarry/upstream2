@@ -23,6 +23,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "Login",
+            "Login.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "Form1",
             "Form1.json"
           ]
@@ -31,16 +39,7 @@
           "!type": "External",
           "file": [
             "forms",
-            "menu",
-            "menu.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "newList",
-            "newList.json"
+
           ]
         }
       ],
@@ -63,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "newList",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
