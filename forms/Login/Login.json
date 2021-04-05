@@ -9,14 +9,33 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Login",
+        "Elements",
+        "inptUser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Login",
+        "Elements",
+        "inptPassword.json"
+      ]
+    }
+  ],
   "class": "",
   "designHeight": 0,
-  "designWidth": 0,
+  "designWidth": 500,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form2",
+  "id": "Login",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -33,5 +52,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": "350"
 }
