@@ -23,6 +23,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "Login",
+            "Login.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "Form1",
             "Form1.json"
           ]
@@ -31,8 +39,7 @@
           "!type": "External",
           "file": [
             "forms",
-            "yourLists",
-            "yourLists.json"
+
           ]
         }
       ],
@@ -55,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "yourLists",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
