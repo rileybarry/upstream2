@@ -26,6 +26,14 @@
             "Form1",
             "Form1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "googleAPI",
+            "googleAPI.json"
+          ]
         }
       ],
       "configxml": null,
