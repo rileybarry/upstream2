@@ -39,8 +39,7 @@
           "!type": "External",
           "file": [
             "forms",
-            "googleAPI",
-            "googleAPI.json"
+
           ]
         }
       ],
@@ -63,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Login",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
